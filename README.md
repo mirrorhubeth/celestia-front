@@ -1,13 +1,13 @@
 # Celestia Front-end
 
 ## preview
-[preview sites]("http://146.19.247.177:8080/send")
+[preview sites](http://146.19.247.177:8080/send)
 
 ![preview](https://github.com/mirrorhubeth/celestia-front/blob/main/img/img.png)
 
 ## How to install
 
-1. Install [nodejs]("https://nodejs.org/")
+1. Install [nodejs](https://nodejs.org/)
 2. Download project
 ```
 git clone https://github.com/mirrorhubeth/celestia-front
