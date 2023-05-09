@@ -1,7 +1,7 @@
 # Celestia Front-end
 
 ## preview
-https://github.com/mirrorhubeth/celestia-front/blob/main/img/img.png
+![preview](https://github.com/mirrorhubeth/celestia-front/blob/main/img/img.png)
 
 ## How to install
 
